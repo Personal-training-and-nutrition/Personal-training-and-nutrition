@@ -1,2 +1,2 @@
-# Perconal-training-and-nutrition
+# Personal-training-and-nutrition
 Приложение для персональных тренеров, нутрициологов и пользователей
