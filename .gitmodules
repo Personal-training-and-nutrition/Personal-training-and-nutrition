@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Personal-training-and-nutrition/Personal-training-and-nutrition.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Personal-training-and-nutrition/Personal-training-and-nutrition.git
